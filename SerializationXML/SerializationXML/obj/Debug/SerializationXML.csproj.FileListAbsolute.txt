@@ -1,0 +1,6 @@
+E:\z Apps\SerializationXML\SerializationXML\bin\Debug\SerializationXML.exe.config
+E:\z Apps\SerializationXML\SerializationXML\bin\Debug\SerializationXML.exe
+E:\z Apps\SerializationXML\SerializationXML\bin\Debug\SerializationXML.pdb
+E:\z Apps\SerializationXML\SerializationXML\obj\Debug\SerializationXML.csprojResolveAssemblyReference.cache
+E:\z Apps\SerializationXML\SerializationXML\obj\Debug\SerializationXML.exe
+E:\z Apps\SerializationXML\SerializationXML\obj\Debug\SerializationXML.pdb

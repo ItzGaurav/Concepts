@@ -1,0 +1,11 @@
+﻿Write a proram to print the following pattern.
+
+    *
+   *** 
+  *****
+ *******
+*********
+ *******
+  *****
+   ***   
+    *

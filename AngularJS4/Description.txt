@@ -1,0 +1,2 @@
+﻿Example of Two way DataBinding In AngularJS.
+-- use of Module, Controller and nd-model

@@ -1,0 +1,42 @@
+﻿<%@ Master Language="C#" AutoEventWireup="true" CodeFile="MasterPage.master.cs" Inherits="MasterPage" %>
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head runat="server">
+    <asp:ContentPlaceHolder ID="head" runat="server">
+    </asp:ContentPlaceHolder>
+</head>
+<body>
+    <form id="form1" runat="server">
+    <div style="background-color: Gray; width: 15%; height: 600px; float: left;">
+        <asp:TreeView ID="TreeView1" runat="server">
+            <HoverNodeStyle BackColor="Fuchsia" Font-Bold="True" Font-Italic="True" />
+            <Nodes>
+                <asp:TreeNode Text="Home" NavigateUrl="~/Home.aspx" />
+                <asp:TreeNode Text="Node1" NavigateUrl="~/N1.aspx">
+                    <asp:TreeNode Text="SubNode1_1" NavigateUrl="~/SubNode1_1.aspx" />
+                    <asp:TreeNode Text="SubNode1_2" NavigateUrl="~/SubNode1_2.aspx" />
+                    <asp:TreeNode Text="SubNode1_3" NavigateUrl="#" />
+                </asp:TreeNode>
+                <asp:TreeNode Text="Node2" NavigateUrl="~/N2.aspx">
+                    <asp:TreeNode Text="SubNode2_1" NavigateUrl="~/SubNode2_1.aspx" />
+                    <asp:TreeNode Text="SubNode2_2" NavigateUrl="~/SubNode2_2.aspx" />
+                    <asp:TreeNode Text="SubNode2_3" NavigateUrl="#" />
+                </asp:TreeNode>
+                <asp:TreeNode Text="Node3" NavigateUrl="#">
+                    <asp:TreeNode Text="SubNode3_1" NavigateUrl="#" />
+                    <asp:TreeNode Text="SubNode3_2" NavigateUrl="#" />
+                    <asp:TreeNode Text="SubNode3_3" NavigateUrl="#" />
+                </asp:TreeNode>
+            </Nodes>
+            <ParentNodeStyle BackColor="#FF3300" />
+            <SelectedNodeStyle BackColor="#FF3300" Font-Bold="True" Font-Italic="True" Font-Underline="True" />
+        </asp:TreeView>
+    </div>
+    <div>
+        <asp:ContentPlaceHolder ID="ContentPlaceHolder1" runat="server">
+        </asp:ContentPlaceHolder>
+    </div>
+    </form>
+</body>
+</html>

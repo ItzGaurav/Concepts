@@ -1,0 +1,7 @@
+﻿Write a rogram to prnt the following pattern.
+
+*********
+ *******
+  *****
+   ***   
+    *

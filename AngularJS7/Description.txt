@@ -1,0 +1,6 @@
+﻿Example of Filters (uppercase, lowercase,date,number,currency).
+
+Name- in uppercase
+Gender - in lowercase
+Date Of Birth - in dd/MM/yyyy
+Salary- in Number and Currency

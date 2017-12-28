@@ -1,0 +1,10 @@
+﻿Write a program to print the following pattern.
+
+c
+co
+com
+comp
+compu
+comput
+compute
+computer

@@ -1,0 +1,4 @@
+﻿use of virtual and override
+
+ // Overriding enables use to invoke derive class method using Base calss refrence verible at run time.
+ //A Base class refrence varible can point child class object.

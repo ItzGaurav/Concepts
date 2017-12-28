@@ -1,0 +1,7 @@
+E:\z Apps\Palindrome\Palindrome\bin\Debug\Palindrome.exe.config
+E:\z Apps\Palindrome\Palindrome\bin\Debug\Palindrome.exe
+E:\z Apps\Palindrome\Palindrome\bin\Debug\Palindrome.pdb
+E:\z Apps\Palindrome\Palindrome\obj\Debug\Palindrome.csprojResolveAssemblyReference.cache
+E:\z Apps\Palindrome\Palindrome\obj\Debug\Palindrome.exe
+E:\z Apps\Palindrome\Palindrome\obj\Debug\Palindrome.pdb
+D:\BitBucket_clone\Palindrome\Palindrome\bin\Debug\Palindrome.exe.config

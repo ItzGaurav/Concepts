@@ -1,0 +1,98 @@
+<Question>
+
+	<rss id="classroom" questionfont="font face='arial' size=5 color=000000"   color="000000" size="6" rssinterval="15000" checkagain="10000"  bgcolor="FFFFFF" defaultmsg="" url="xml/Question.xml" namefont="font face='arial' size=6 color=66CC00" questionsperpage="3" defaultfrom="No question are available" seperator="" currentstate="notice" />
+
+	<notice>
+
+		<heading>Welcome to the Carrier Wi-Fi Summit</heading>
+
+		<subheading>Day 1 | 26 February</subheading>
+
+		<text>
+
+			<time>9:30</time>
+
+			<valus>
+				Dr. Reza Jafari, Chairman & CEO,e-Development International
+				Evolving role of Wi-Fi for operators and driving societal benefit
+			</valus>
+
+		</text>
+
+		<text>
+
+			<time>10:00</time>
+
+			<valus>
+				Panel discussion: Global Role of Wi-Fi in ICT
+				Moderator: Dr. Reza Jafari, Chairman & CEO, e-Development International
+				Diego Molano Vega, Colombian ICT Minister
+				Selina Lo, CEO, Ruckus Wireless
+				JR Wilson, Chairman, WBA and VP, Partnerships & Alliances, AT&T Mobility
+			</valus>
+
+		</text>
+
+		<text>
+
+			<time>10:20</time>
+
+			<valus>Refreshment break</valus>
+
+		</text>
+
+		<text>
+
+			<time>10:30</time>
+
+			<valus>
+				Driving the Mobile Broadband Revolution with Wi-Fi
+				Moderator/MC: Mohan Gyani, Independent Telecommunications Professional
+			</valus>
+
+		</text>
+
+		<text>
+
+			<time>10:50</time>
+
+			<valus>Kris Rinne, Senior VP, Architecture and Planning, AT&T</valus>
+
+		</text>
+
+		<text>
+
+			<time>11:10</time>
+
+			<valus>
+				Dr. Seong-Mok Oh, President of Network Group, KT
+				Carrier Wi-Fi Service Through Innovation
+			</valus>
+
+		</text>
+
+		<text>
+
+			<time>11:20</time>
+
+			<valus>
+				Bill Huang, General Manager, China Mobile Research Institute
+				Thinking about Wi-Fi in the 4G era
+			</valus>
+
+		</text>
+
+		<text>
+
+			<time>11:45</time>
+
+			<valus>
+				Alex Jinsung Choi, Executive VP and Head of ICT R&D, SK Telecom
+				Wi-Fi Service and Evolution by SK Telecom
+			</valus>
+
+		</text>
+
+	</notice>
+
+</Question>

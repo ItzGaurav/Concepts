@@ -1,0 +1,1 @@
+﻿Example of ng-click (click event) in AmgilarJs.

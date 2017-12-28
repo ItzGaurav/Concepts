@@ -1,0 +1,2 @@
+﻿// Method Hiding is a mecanism to hide an existing method by new method.
+//Child class hide the base class method.

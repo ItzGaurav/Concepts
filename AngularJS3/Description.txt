@@ -1,0 +1,1 @@
+﻿Attach Complex Object with $Scope object.

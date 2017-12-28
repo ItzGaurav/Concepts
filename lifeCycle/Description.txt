@@ -1,0 +1,3 @@
+﻿One of the most importent interview question Page Life Cycle.
+// Page Life Cycle event
+//Request Respon

@@ -1,0 +1,4 @@
+﻿XML Serialization
+
+-The advantage of XML Serialization is its ability to pass firewall, where Binary Serialization can't.
+-However XML Serializatin much slover than binary serialization.

@@ -1,0 +1,5 @@
+E:\z Apps\CodingTest8\CodingTest8\bin\Debug\CodingTest8.exe.config
+E:\z Apps\CodingTest8\CodingTest8\bin\Debug\CodingTest8.exe
+E:\z Apps\CodingTest8\CodingTest8\bin\Debug\CodingTest8.pdb
+E:\z Apps\CodingTest8\CodingTest8\obj\Debug\CodingTest8.exe
+E:\z Apps\CodingTest8\CodingTest8\obj\Debug\CodingTest8.pdb

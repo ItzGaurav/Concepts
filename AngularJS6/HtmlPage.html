@@ -1,0 +1,57 @@
+﻿<!DOCTYPE html>
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+    <title></title>
+    <script src="JavaScript/AngularJS.js"></script>
+    <script src="JavaScript/app.js"></script>
+
+    <style>
+        table {
+            border-collapse: collapse;
+            font-family: Arial;
+        }
+
+        td {
+            border: 1px solid black;
+            padding: 5px;
+        }
+
+        th {
+            border: 1px solid black;
+            padding: 5px;
+            text-align: left;
+        }
+    </style>
+</head>
+<body ng-app="myModule">
+    <div ng-controller="myController">
+        <table>
+            <thead>
+                <tr>
+                    <td>Name</td>
+                    <td>Gender</td>
+                    <td>Department</td>
+                    <td>Salary</td>
+                    <td>Likes</td>
+                    <td>Dislikes</td>
+                    <td>Likes/Dislikes</td>
+                </tr>
+            </thead>
+            <tbody>
+                <tr ng-repeat="emp in employees">
+                    <td>{{emp.Name}}</td>
+                    <td>{{emp.Gender}}</td>
+                    <td>{{emp.Department}}</td>
+                    <td>{{emp.Salary}}</td>
+                    <td>{{emp.Likes}}</td>
+                    <td>{{emp.Dislikes}}</td>
+                    <td>
+                        <input type="button" value="Like" ng-click="incrementLikes(emp)" />
+                        <input type="button" value="Dislike" ng-click="incrementDisikes(emp)" /></td>
+                </tr>
+            </tbody>
+        </table>
+    </div>
+</body>
+</html>
+

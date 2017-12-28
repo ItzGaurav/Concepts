@@ -1,0 +1,52 @@
+﻿<!DOCTYPE html>
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+    <title></title>
+    <script src="JavaScript/AngularJS.js"></script>
+    <script src="JavaScript/app.js"></script>
+
+    <style>
+        table {
+            border-collapse: collapse;
+            font-family: Arial;
+        }
+
+        td {
+            border: 1px solid black;
+            padding: 5px;
+        }
+
+        th {
+            border: 1px solid black;
+            padding: 5px;
+            text-align: left;
+        }
+    </style>
+</head>
+<body ng-app="myModule">
+    <div ng-controller="myController">
+        <table>
+            <thead>
+                <tr>
+                    <td>Name</td>
+                    <td>Date Of Birth</td>
+                    <td>Gender</td>
+                    <td>Department</td>
+                    <td>Salary (Number)</td>
+                    <td>Salary(Currency)</td>
+                </tr>
+            </thead>
+            <tbody>
+                <tr ng-repeat="emp in employees">
+                    <td>{{emp.Name |uppercase}}</td>
+                    <td>{{emp.DOB | date:"dd/MM/yyyy"}}</td>
+                    <td>{{emp.Gender|lowercase}}</td>
+                    <td>{{emp.Department}}</td>
+                    <td>{{emp.Salary|number:2}}</td>
+                    <td>{{emp.Salary|currency}}</td>
+                </tr>
+            </tbody>
+        </table>
+    </div>
+</body>
+</html>

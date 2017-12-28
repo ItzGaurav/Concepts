@@ -1,0 +1,11 @@
+﻿Save value in in database using AngularJS and ASP.NET MVC.
+
+
+SQL Script
+
+create table Employee (
+Id Int Primary Key Identity,
+Name nvarchar(100) null,
+Gender nvarchar(10) null,
+Salary Int
+)

@@ -1,0 +1,2 @@
+﻿Override ToString() method
+//Override to string method to give complex type string representation to a meaningfull.

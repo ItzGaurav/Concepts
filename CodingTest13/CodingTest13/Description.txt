@@ -1,0 +1,7 @@
+﻿Write a program to prient the following pattern.
+
+    *
+   ***
+  *****
+ *******
+*********

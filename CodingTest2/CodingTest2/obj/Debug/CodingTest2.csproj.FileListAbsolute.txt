@@ -1,0 +1,6 @@
+E:\z Apps\CodingTest2\CodingTest2\bin\Debug\CodingTest2.exe.config
+E:\z Apps\CodingTest2\CodingTest2\bin\Debug\CodingTest2.exe
+E:\z Apps\CodingTest2\CodingTest2\bin\Debug\CodingTest2.pdb
+E:\z Apps\CodingTest2\CodingTest2\obj\Debug\CodingTest2.csprojResolveAssemblyReference.cache
+E:\z Apps\CodingTest2\CodingTest2\obj\Debug\CodingTest2.exe
+E:\z Apps\CodingTest2\CodingTest2\obj\Debug\CodingTest2.pdb

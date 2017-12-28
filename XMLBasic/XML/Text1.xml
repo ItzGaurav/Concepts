@@ -1,0 +1,48 @@
+<xml>
+<students>
+
+  <student>
+    <name>Gaurav</name>
+    <age>25</age>
+    <marks>68</marks>
+   </student>
+
+<student>
+    <name>AAAA</name>
+    <age>28</age>
+      <marks>61</marks>
+   </student>
+<student>
+    <name>BBBB</name>
+    <age>22</age>
+    <marks>68</marks>
+   </student>
+
+<student>
+    <name>CCCC</name>
+    <age>26</age>
+     <marks>78</marks>
+   </student>
+
+<student>
+    <name>DDDD</name>
+    <age>25</age>
+    <marks>50</marks>
+   </student>
+
+<student>
+    <name>EEEE</name>
+    <age>25</age>
+     <marks>76</marks>
+   </student>
+
+<student>
+    <name>FFFF</name>
+    <age>22</age>
+    <marks>45</marks>
+   </student>
+
+
+ </students>
+
+</xml>

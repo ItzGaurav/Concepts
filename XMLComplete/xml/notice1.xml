@@ -1,0 +1,57 @@
+
+<Questions>
+
+<rss id="classroom" questionfont="font face='arial' size=5 color=000000"   color="000000" size="6" rssinterval="15000" checkagain="10000"  bgcolor="FFFFFF" defaultmsg="" url="xml/Question.xml" namefont="font face='arial' size=6 color=66CC00" questionsperpage="3" defaultfrom="No question are available" seperator="" currentstate="notice" />
+<Notice>
+<heading>Welcome to the Carrier Wi-Fi Summit</heading>
+<subheading>Day 1 | 26 February</subheading>
+
+<text>
+<time>9:10</time>
+<value>JR Wilson, Chairman, WBA and VP, Partnerships &amp; Alliances,
+<br/>AT&amp;T Mobility
+<br/>Opening address – Transforming Connected World with Next Generation wi-Fi </value>
+</text>
+<text>
+<time>9:30</time>
+<value>Dr. Reza Jafari, Chairman &amp; CEO,e-Development International
+<br/>Evolving role of Wi-Fi for operators and driving societal benefit</value>
+</text>
+<text>
+<time>10:00</time>
+<value>Panel discussion: Global Role of Wi-Fi in ICT
+<br/>Moderator: Dr. Reza Jafari, Chairman &amp; CEO, e-Development International
+<br/>Diego Molano Vega, Colombian ICT Minister
+<br/>Selina Lo, CEO, Ruckus Wireless
+<br/>JR Wilson, Chairman, WBA and VP, Partnerships &amp; Alliances, AT&amp;T Mobility</value>
+</text>
+<text>
+<time>10:20</time>
+<value>Refreshment break</value>
+</text>
+<text>
+<time>10:30</time>
+<value>Driving the Mobile Broadband Revolution with Wi-Fi
+<br/>Moderator/MC: Mohan Gyani, Independent Telecommunications Professional</value>
+</text>
+<text>
+<time>10:50</time>
+<value>Kris Rinne, Senior VP, Architecture and Planning, AT&amp;T</value>
+</text>
+<text>
+<time>11:10</time>
+<value>Dr. Seong-Mok Oh, President of Network Group, KT
+<br/>Carrier Wi-Fi Service Through Innovation</value>
+</text>
+<text>
+<time>11:20</time>
+<value>Bill Huang, General Manager, China Mobile Research Institute
+<br/>Thinking about Wi-Fi in the 4G era</value>
+</text>
+<text>
+<time>11:45</time>
+<value>Alex Jinsung Choi, Executive VP and Head of ICT R&amp;D, SK Telecom
+<br/>Wi-Fi Service and Evolution by SK Telecom</value>
+</text>
+</Notice>
+</Questions>

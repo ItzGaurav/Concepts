@@ -1,0 +1,58 @@
+﻿<!DOCTYPE html>
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+    <title></title>
+    <script src="JavaScript/AngularJS.js"></script>
+    <script src="JavaScript/app.js"></script>
+
+    <style>
+        table {
+            border-collapse: collapse;
+            font-family: Arial;
+        }
+
+        td {
+            border: 1px solid black;
+            padding: 5px;
+        }
+
+        th {
+            border: 1px solid black;
+            padding: 5px;
+            text-align: left;
+        }
+    </style>
+</head>
+<body ng-app="myModule">
+    <div ng-controller="myController">
+        <table>
+            <tr>
+                <td>First Name:</td>
+                <td>
+                    <input type="text" ng-model="employee.firstName" /></td>
+            </tr>
+            <tr>
+                <td>Last Name:</td>
+                <td>
+                    <input type="text" ng-model="employee.lastName" /></td>
+            </tr>
+            <tr>
+                <td>Gender:</td>
+                <td>
+                    <input type="text" ng-model="employee.Gender" /></td>
+            </tr>
+            <tr>
+                <td>Country:</td>
+                <td>
+                    <input type="text" ng-model="employee.Country" /></td>
+            </tr>
+        </table>
+        <br />
+        <br />
+        <div>First Name: {{employee.firstName}}</div>
+        <div>Last Name: {{employee.lastName}}</div>
+        <div>Gender: {{employee.Gender}}</div>
+        <div>Country: {{employee.Country}}</div>
+    </div>
+</body>
+</html>

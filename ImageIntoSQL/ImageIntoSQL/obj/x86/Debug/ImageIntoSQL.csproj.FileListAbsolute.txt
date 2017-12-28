@@ -1,0 +1,14 @@
+D:\Webss\ImageIntoSQL\ImageIntoSQL\bin\Debug\ImageIntoSQL.exe
+D:\Webss\ImageIntoSQL\ImageIntoSQL\bin\Debug\ImageIntoSQL.pdb
+D:\Webss\ImageIntoSQL\ImageIntoSQL\obj\x86\Debug\ImageIntoSQL.Form1.resources
+D:\Webss\ImageIntoSQL\ImageIntoSQL\obj\x86\Debug\ImageIntoSQL.Properties.Resources.resources
+D:\Webss\ImageIntoSQL\ImageIntoSQL\obj\x86\Debug\ImageIntoSQL.csproj.GenerateResource.Cache
+D:\Webss\ImageIntoSQL\ImageIntoSQL\obj\x86\Debug\ImageIntoSQL.exe
+D:\Webss\ImageIntoSQL\ImageIntoSQL\obj\x86\Debug\ImageIntoSQL.pdb
+E:\Study\MultiVirt\Study\Webss\ImageIntoSQL\ImageIntoSQL\obj\x86\Debug\ImageIntoSQL.exe
+E:\Study\MultiVirt\Study\Webss\ImageIntoSQL\ImageIntoSQL\obj\x86\Debug\ImageIntoSQL.pdb
+E:\Study\MultiVirt\Study\Webss\ImageIntoSQL\ImageIntoSQL\bin\Debug\ImageIntoSQL.exe
+E:\Study\MultiVirt\Study\Webss\ImageIntoSQL\ImageIntoSQL\bin\Debug\ImageIntoSQL.pdb
+E:\Study\MultiVirt\Study\Webss\ImageIntoSQL\ImageIntoSQL\obj\x86\Debug\ImageIntoSQL.Form1.resources
+E:\Study\MultiVirt\Study\Webss\ImageIntoSQL\ImageIntoSQL\obj\x86\Debug\ImageIntoSQL.Properties.Resources.resources
+E:\Study\MultiVirt\Study\Webss\ImageIntoSQL\ImageIntoSQL\obj\x86\Debug\ImageIntoSQL.csproj.GenerateResource.Cache

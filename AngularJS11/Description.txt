@@ -1,0 +1,18 @@
+﻿Example of Consuming ASP NET Web Service in AngularJS using $http Service.
+
+
+SQL Script
+
+create table Employee (
+Id Int Primary Key Identity,
+Name nvarchar(100) null,
+Gender nvarchar(10) null,
+Salary Int
+)
+
+Select * from Employee
+
+Insert Into Employee(Name,Gender,Salary) values('Pam','Male',10000);
+Insert Into Employee(Name,Gender,Salary) values('Sara','Feale',20000);
+Insert Into Employee(Name,Gender,Salary) values('John','Male',25000);
+Insert Into Employee(Name,Gender,Salary) values('Player','Male',15000);

@@ -1,0 +1,20 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2012
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SerializationSOAP", "SerializationSOAP\SerializationSOAP.csproj", "{A2F0DB37-A1F4-4CA2-AFAA-E5DB7D90EF4F}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{A2F0DB37-A1F4-4CA2-AFAA-E5DB7D90EF4F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A2F0DB37-A1F4-4CA2-AFAA-E5DB7D90EF4F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A2F0DB37-A1F4-4CA2-AFAA-E5DB7D90EF4F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A2F0DB37-A1F4-4CA2-AFAA-E5DB7D90EF4F}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

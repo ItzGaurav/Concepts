@@ -1,0 +1,11 @@
+E:\z Apps\CodingTest5\CodingTest5\bin\Debug\CodingTest5.exe.config
+E:\z Apps\CodingTest5\CodingTest5\bin\Debug\CodingTest5.exe
+E:\z Apps\CodingTest5\CodingTest5\bin\Debug\CodingTest5.pdb
+E:\z Apps\CodingTest5\CodingTest5\obj\Debug\CodingTest5.exe
+E:\z Apps\CodingTest5\CodingTest5\obj\Debug\CodingTest5.pdb
+D:\BitBucket_clone\CodingTest5\CodingTest5\bin\Debug\CodingTest5.exe.config
+D:\BitBucket_clone\CodingTest5\CodingTest5\bin\Debug\CodingTest5.exe
+D:\BitBucket_clone\CodingTest5\CodingTest5\bin\Debug\CodingTest5.pdb
+D:\BitBucket_clone\CodingTest5\CodingTest5\obj\Debug\CodingTest5.csprojResolveAssemblyReference.cache
+D:\BitBucket_clone\CodingTest5\CodingTest5\obj\Debug\CodingTest5.exe
+D:\BitBucket_clone\CodingTest5\CodingTest5\obj\Debug\CodingTest5.pdb

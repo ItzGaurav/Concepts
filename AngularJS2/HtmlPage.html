@@ -1,0 +1,46 @@
+﻿<!DOCTYPE html>
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+    <title></title>
+    <script src="JavaScript/AngularJS.js"></script>
+
+    <style>
+        table {
+            border-collapse: collapse;
+            font-family: Arial;
+        }
+
+        td {
+            border: 1px solid black;
+            padding: 5px;
+        }
+
+        th {
+            border: 1px solid black;
+            padding: 5px;
+            text-align: left;
+        }
+    </style>
+</head>
+<body ng-app="">
+    <div>
+        <table>
+            <tr>
+                <td>First Number :</td>
+                <td>
+                    <input type="number" ng-model="firstNumber" /></td>
+            </tr>
+            <tr>
+
+                <td>Second Number :</td>
+                <td>
+                    <input type="number" ng-model="secondNumber" /></td>
+            </tr>
+            <tr>
+                <td> Result :</td>
+                <td> {{firstNumber + secondNumber}} </td>
+            </tr>
+        </table>
+    </div>
+</body>
+</html>

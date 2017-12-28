@@ -1,0 +1,6 @@
+E:\z Apps\CodingTest14\CodingTest14\bin\Debug\CodingTest14.exe.config
+E:\z Apps\CodingTest14\CodingTest14\bin\Debug\CodingTest14.exe
+E:\z Apps\CodingTest14\CodingTest14\bin\Debug\CodingTest14.pdb
+E:\z Apps\CodingTest14\CodingTest14\obj\Debug\CodingTest14.csprojResolveAssemblyReference.cache
+E:\z Apps\CodingTest14\CodingTest14\obj\Debug\CodingTest14.exe
+E:\z Apps\CodingTest14\CodingTest14\obj\Debug\CodingTest14.pdb

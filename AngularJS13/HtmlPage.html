@@ -1,0 +1,53 @@
+﻿<!DOCTYPE html>
+
+<html ng-app="myModule">
+<head>
+    <meta name="viewport" content="width=device-width" />
+    <title>Index</title>
+    <script src="JavaScript/AngularJS.js"></script>
+    <script src="JavaScript/app.js"></script>
+    <script src="JavaScript/service.js"></script>
+    <style>
+        table {
+            border-collapse: collapse;
+            font-family: Arial;
+        }
+
+        td {
+            border: 1px solid black;
+            padding: 5px;
+        }
+
+        th {
+            border: 1px solid black;
+            padding: 5px;
+            text-align: left;
+        }
+    </style>
+</head>
+<body>
+        <center>
+        <div ng-controller="myController">
+            <table>
+                <tr>
+                    <td>Input String : </td>
+                    <td>
+                        <input type="text" ng-model="input"/>
+                    </td>
+                </tr>
+                <tr>
+                    <td>Output String: </td>
+                    <td>
+                        <input type="text" ng-model="output"/></td>
+                </tr>
+                <tr>
+                    <td colspan="2">
+                      <input type="button" ng-click="process()" value="Prosess"/>
+                </tr>
+            </table>
+            <br/>
+            
+        </div>
+    </center>
+</body>
+</html>

@@ -1,0 +1,6 @@
+E:\z Apps\SortingInsertion\SortingInsertion\bin\Debug\SortingInsertion.exe.config
+E:\z Apps\SortingInsertion\SortingInsertion\bin\Debug\SortingInsertion.exe
+E:\z Apps\SortingInsertion\SortingInsertion\bin\Debug\SortingInsertion.pdb
+E:\z Apps\SortingInsertion\SortingInsertion\obj\Debug\SortingInsertion.exe
+E:\z Apps\SortingInsertion\SortingInsertion\obj\Debug\SortingInsertion.pdb
+E:\z Apps\SortingInsertion\SortingInsertion\obj\Debug\SortingInsertion.csprojResolveAssemblyReference.cache

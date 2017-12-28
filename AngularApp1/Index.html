@@ -1,0 +1,55 @@
+﻿<!DOCTYPE html>
+<html xmlns="http://www.w3.org/1999/xhtml" ng-app="myModule">
+<head>
+    <title></title>
+    <style>
+        table {
+            border-collapse: collapse;
+            font-family: Arial;
+        }
+
+        td {
+            border: 1px solid black;
+            padding: 5px;
+        }
+
+        th {
+            border: 1px solid black;
+            padding: 5px;
+            text-align: left;
+        }
+    </style>
+    <script src="JavaScript/AngularJS.js"></script>
+    <script src="JavaScript/angular-route.js"></script>
+    <script src="JavaScript/app.js"></script>
+    <base href="/"/>
+</head>
+<body>
+    <table style="font-family: Arial">
+        <tr>
+            <td colspan="2" style="width: 800px; height: 80px; background-color: darkgray; text-align: center">
+                <h1>Website Header</h1>
+            </td>
+        </tr>
+        <tr>
+            <td style="width: 150px; height: 450px; background-color: gainsboro">
+                <a href="/Home">Home</a>
+                <br />
+                <a href="/Courses">Courses</a><br />
+                <a href="/Students">Students</a>
+
+
+            </td>
+            <td style="width: 650px; height: 450px; background-color: aliceblue">
+
+                <ng-view></ng-view>
+            </td>
+        </tr>
+        <tr>
+            <td colspan="2" style="width: 800px; height: 10px; background-color: darkgray; text-align: center">
+                <h5>Website Footer</h5>
+            </td>
+        </tr>
+    </table>
+</body>
+</html>

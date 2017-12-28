@@ -1,0 +1,2 @@
+﻿It is a first progream of AngularJs.
+-- To print "Hello World !"

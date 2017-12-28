@@ -1,0 +1,11 @@
+E:\z Apps\Armstrong\Armstrong\bin\Debug\Armstrong.exe.config
+E:\z Apps\Armstrong\Armstrong\bin\Debug\Armstrong.exe
+E:\z Apps\Armstrong\Armstrong\bin\Debug\Armstrong.pdb
+E:\z Apps\Armstrong\Armstrong\obj\Debug\Armstrong.exe
+E:\z Apps\Armstrong\Armstrong\obj\Debug\Armstrong.pdb
+D:\BitBucket_clone\Armstrong\Armstrong\bin\Debug\Armstrong.exe.config
+D:\BitBucket_clone\Armstrong\Armstrong\bin\Debug\Armstrong.exe
+D:\BitBucket_clone\Armstrong\Armstrong\bin\Debug\Armstrong.pdb
+D:\BitBucket_clone\Armstrong\Armstrong\obj\Debug\Armstrong.csprojResolveAssemblyReference.cache
+D:\BitBucket_clone\Armstrong\Armstrong\obj\Debug\Armstrong.exe
+D:\BitBucket_clone\Armstrong\Armstrong\obj\Debug\Armstrong.pdb

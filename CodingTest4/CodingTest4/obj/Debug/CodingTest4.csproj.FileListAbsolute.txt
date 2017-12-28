@@ -1,0 +1,6 @@
+E:\z Apps\CodingTest4\CodingTest4\bin\Debug\CodingTest4.exe.config
+E:\z Apps\CodingTest4\CodingTest4\bin\Debug\CodingTest4.exe
+E:\z Apps\CodingTest4\CodingTest4\bin\Debug\CodingTest4.pdb
+E:\z Apps\CodingTest4\CodingTest4\obj\Debug\CodingTest4.exe
+E:\z Apps\CodingTest4\CodingTest4\obj\Debug\CodingTest4.pdb
+D:\BitBucket_clone\CodingTest4\CodingTest4\bin\Debug\CodingTest4.exe.config

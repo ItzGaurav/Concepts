@@ -1,0 +1,6 @@
+E:\z Apps\SortingBubble\SortingBubble\bin\Debug\SortingBubble.exe.config
+E:\z Apps\SortingBubble\SortingBubble\bin\Debug\SortingBubble.exe
+E:\z Apps\SortingBubble\SortingBubble\bin\Debug\SortingBubble.pdb
+E:\z Apps\SortingBubble\SortingBubble\obj\Debug\SortingBubble.csprojResolveAssemblyReference.cache
+E:\z Apps\SortingBubble\SortingBubble\obj\Debug\SortingBubble.exe
+E:\z Apps\SortingBubble\SortingBubble\obj\Debug\SortingBubble.pdb

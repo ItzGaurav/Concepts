@@ -1,0 +1,1 @@
+﻿Example of Creating Custom Filter in AngularJS.

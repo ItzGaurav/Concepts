@@ -1,0 +1,4 @@
+﻿Use of... 
+Default Constructor
+Peramerize Constructor
+Copy Constructor

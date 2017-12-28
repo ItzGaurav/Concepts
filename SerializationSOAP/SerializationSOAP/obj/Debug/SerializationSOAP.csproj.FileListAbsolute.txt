@@ -1,0 +1,6 @@
+E:\z Apps\SerializationSOAP\SerializationSOAP\bin\Debug\SerializationSOAP.exe.config
+E:\z Apps\SerializationSOAP\SerializationSOAP\obj\Debug\SerializationSOAP.csprojResolveAssemblyReference.cache
+E:\z Apps\SerializationSOAP\SerializationSOAP\bin\Debug\SerializationSOAP.exe
+E:\z Apps\SerializationSOAP\SerializationSOAP\bin\Debug\SerializationSOAP.pdb
+E:\z Apps\SerializationSOAP\SerializationSOAP\obj\Debug\SerializationSOAP.exe
+E:\z Apps\SerializationSOAP\SerializationSOAP\obj\Debug\SerializationSOAP.pdb

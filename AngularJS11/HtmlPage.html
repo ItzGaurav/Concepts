@@ -1,0 +1,50 @@
+﻿<!DOCTYPE html>
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+    <title></title>
+    <script src="JavaScript/Angular.js"></script>
+    <script src="JavaScript/app.js"></script>
+        <style>
+        table {
+            border-collapse: collapse;
+            font-family: Arial;
+        }
+
+        td {
+            border: 1px solid black;
+            padding: 5px;
+        }
+
+        th {
+            border: 1px solid black;
+            padding: 5px;
+            text-align: left;
+        }
+    </style>
+</head>
+<body ng-app="myModule">
+<div ng-controller="myController">
+    {{error}}
+    <table>
+        <thead>
+        <tr>
+            <td>Employee Id</td>
+            <td>Name</td>
+            <td>Gender</td>
+            <td>Salary</td>
+        </tr>
+        </thead>
+        <tbody>
+        <tr ng-repeat="emp in employees">
+            <td>{{emp.Id}}</td>
+            <td>{{emp.Name}}</td>
+            <td>{{emp.Gender}}</td>
+            <td>{{emp.Salary}}</td>
+        </tr>
+        </tbody>
+
+    </table>
+
+</div>
+</body>
+</html>

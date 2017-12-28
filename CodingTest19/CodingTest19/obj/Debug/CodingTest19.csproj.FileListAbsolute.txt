@@ -1,0 +1,6 @@
+E:\z Apps\CodingTest19\CodingTest19\bin\Debug\CodingTest19.exe.config
+E:\z Apps\CodingTest19\CodingTest19\obj\Debug\CodingTest19.csprojResolveAssemblyReference.cache
+E:\z Apps\CodingTest19\CodingTest19\bin\Debug\CodingTest19.exe
+E:\z Apps\CodingTest19\CodingTest19\bin\Debug\CodingTest19.pdb
+E:\z Apps\CodingTest19\CodingTest19\obj\Debug\CodingTest19.exe
+E:\z Apps\CodingTest19\CodingTest19\obj\Debug\CodingTest19.pdb

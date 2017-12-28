@@ -1,0 +1,7 @@
+E:\z Apps\CodingTest11\CodingTest11\bin\Debug\CodingTest11.exe.config
+E:\z Apps\CodingTest11\CodingTest11\bin\Debug\CodingTest11.exe
+E:\z Apps\CodingTest11\CodingTest11\bin\Debug\CodingTest11.pdb
+E:\z Apps\CodingTest11\CodingTest11\obj\Debug\CodingTest11.csprojResolveAssemblyReference.cache
+E:\z Apps\CodingTest11\CodingTest11\obj\Debug\CodingTest11.exe
+E:\z Apps\CodingTest11\CodingTest11\obj\Debug\CodingTest11.pdb
+D:\BitBucket_clone\CodingTest11\CodingTest11\bin\Debug\CodingTest11.exe.config
